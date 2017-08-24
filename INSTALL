@@ -1,0 +1,9 @@
+Building BurgerKing
+
+See doc/readme-qt.rst for instructions on building BurgerKing-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BurgerKing.
+
+See doc/build-*.txt for instructions on building burgerkingd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BurgerKing.
