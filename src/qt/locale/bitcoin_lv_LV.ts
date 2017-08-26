@@ -2232,8 +2232,8 @@ Adrese: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 12483 or testnet: 112483)</source>
-        <translation>Gaidīt savienojumus portā &lt;port&gt; (pēc noklusēšanas: 12483 vai testnet: 112483)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 12433 or testnet: 112433)</source>
+        <translation>Gaidīt savienojumus portā &lt;port&gt; (pēc noklusēšanas: 12433 vai testnet: 112433)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2267,7 +2267,7 @@ Adrese: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 12482 or testnet: 112482)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 12432 or testnet: 112432)</source>
         <translation type="unfinished"/>
     </message>
     <message>
